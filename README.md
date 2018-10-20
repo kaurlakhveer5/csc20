@@ -1,2 +1,3 @@
 # csc20
-Hello
+Class Projects
+
